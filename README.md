@@ -8,7 +8,7 @@ TicketGen is an app made for iOS to create mock train tickets using popular stat
 Users will enter source and destination stations and click 'Add Ticket" to create a new ticket object
 
 
-#Ticket View
+# Ticket View
 
 After ticket creation, Tickets will appear on a list of clickable tables where the ticket can be opened. 
 Opened tickets will show as activated and flash aappropriately to show as activated
